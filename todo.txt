@@ -1,0 +1,4 @@
+- In a calculator line that's an expression, have the output line say like "a=10" for "a=2*5"
+- When you update a variable in one window, update its value in all others. Currently, you need to change something in the other window to get it to recompute
+- Add functionality for exponentiating to a matrix?
+- Fractions, quaternions, covariant and contravariant tensor fields?
